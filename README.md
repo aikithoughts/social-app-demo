@@ -48,4 +48,4 @@ Team up with someone and browse to each other's deployed applications. Leave som
 
 ## Just testing
 
-Hooray. 
+Work, please.
